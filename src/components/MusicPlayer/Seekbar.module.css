@@ -1,0 +1,19 @@
+input[type='range'] {
+  -webkit-appearance: none;
+}
+
+input[type='range']::-webkit-slider-runnable-track {
+  background-color: #656161; /* Change this to your desired color */
+  height: 15px;
+  border-radius: 10px;
+}
+
+/* Styles for the thumb (the draggable part of the scrollbar) */
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  background-color: #444444; /* Change this to your desired thumb color */
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: 1px solid #fff; /* You can change the border color and width if needed */
+}

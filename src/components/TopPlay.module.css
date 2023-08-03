@@ -1,0 +1,14 @@
+/* Seekbar.module.css (or your custom CSS module) */
+
+@keyframes slideright {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.animate-slideright {
+  animation: slideright 0.5s ease-in-out;
+}
