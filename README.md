@@ -1,4 +1,4 @@
-This is a web development self-project using React.js, integrated with Redux and RapidAPI, to create a music streaming and discovery platform. It enables users to discover the latest music and their favorite artists with higher loading speeds.
+This is a web development self-project using React.js, integrated with Redux and RapidAPI, to create a music streaming and discovery platform. It enables users to discover the latest music and their favorite artists with higher loading speeds. You can view the project at https://ll-music-app.netlify.app/
 
 <br/>
 
